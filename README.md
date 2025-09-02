@@ -20,8 +20,21 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Akshat1124&style=for-the-badge)
 
 ## Get in touch
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://akshatportfolio-six.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshat-srivastava1124/?)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Akshat1124)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:akshatsrivastava1124@gmail.com)
-
+<a href="https://akshatportfolio-six.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/akshat-srivastava1124/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn" />
+</a>
+<a href="https://github.com/Akshat1124" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+</a>
+<a href="mailto:akshatsrivastava1124@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email" />
+</a>
+<a href="https://instagram.com/akshat1124" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" title="Instagram" />
+</a>
+<a href="https://x.com/akshat1124" target="_blank">
+  <img src="https://skillicons.dev/icons?i=x" height="40" title="X" />
+</a>
