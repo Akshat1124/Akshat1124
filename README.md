@@ -12,7 +12,7 @@
 ## Tech Stack:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vercel,netlify,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vercel,typescript,vscode" />
   </a>
 
 
