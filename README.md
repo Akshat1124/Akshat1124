@@ -7,7 +7,16 @@
 - I mentor students in Git & GitHub, and thrive in Agile environments, always aiming for innovative, user-centric solutions.
 
 ## Code Stats
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshat1124&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1124&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td width="70%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshat1124&theme=gotham" alt="GitHub Profile Details">
+    </td>
+    <td width="30%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshat1124&theme=gotham" alt="GitHub Repos Per Language">
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack:
 
