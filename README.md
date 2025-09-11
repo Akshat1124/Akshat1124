@@ -35,6 +35,7 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:akshatsrivastava1124@gmail.com)
 
 
+![Visitor](https://count.getloli.com/@:Akshat1124?theme=booru-rfck)
 
 
 
