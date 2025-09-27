@@ -3,7 +3,7 @@
 
 ## About me
 
-- Full-stack developer fluent in C++, JavaScript (ES6+), building robust web applications using React, Node.js, Express, and MongoDB. 
+- Full-Stack developer fluent in C++, JavaScript (ES6+), building robust web applications using React, Node.js, Express, and MongoDB. 
 - I mentor students in Git & GitHub, and thrive in Agile environments, always aiming for innovative, user-centric solutions.
 
 ## Code Stats
